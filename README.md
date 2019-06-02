@@ -1,4 +1,4 @@
-# Google-Spreadsheet---Pocket
+# Google-Spreadsheet --> Pocket
 This is a quick python script I made that takes a list of links from a google spreadsheet and adds them to my pocket reading list
 
 # Instructions
